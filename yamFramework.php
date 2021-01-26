@@ -14,7 +14,8 @@
 	Send command to Amps inspiration script : 
 			https://forum.jeedom.com/viewtopic.php?t=17977&start=40
 	Yamaha official API reference guide : 
-			http://habitech.s3.amazonaws.com/PDFs/YAM/MusicCast/Yamaha%20MusicCast%20HTTP%20simplified%20API%20for%20ControlSystems.pdf
+		Basic : https://wiki.elvis.science/images/9/9c/Yamaha_Extended_Control_API_Specification_%28Basic%29.pdf
+		Advanced : https://wiki.elvis.science/images/5/5c/Yamaha_Extended_Control_API_Specification_%28Advanced%29.pdf
 
 	My Net Radio preset list : 
 
